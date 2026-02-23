@@ -1,0 +1,11 @@
+# ConvoLens Environment Variables
+# Copy this file to .env and add your actual API key
+
+# Anthropic API Key
+# Get yours from: https://console.anthropic.com/settings/keys
+ANTHROPIC_API_KEY=your_api_key_here
+
+# Project settings
+PROJECT_NAME=ConvoLens
+DATA_DIR=./data
+RESULTS_DIR=./results
